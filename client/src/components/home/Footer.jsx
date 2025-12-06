@@ -56,7 +56,7 @@ const Footer = () => {
                         </a>
                        
                     </div>
-                    <p className="mt-3 text-center"><a href='https://www.linkedin.com/in/bhanu-pratap-14796a398 ' >@Bhnau pratap</a></p>
+                    <p className="mt-3 text-center"><a href='https://www.linkedin.com/in/bhanu-pratap-14796a398 ' >@Bhanupratap</a></p>
                 </div>
             </footer>
         </>
